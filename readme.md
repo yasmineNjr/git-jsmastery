@@ -1,3 +1,4 @@
+Welcome Git!
 Heyoo everyone, welcome to my guide!
 
-yo, Johnnny here!
+this is coming from adrian
