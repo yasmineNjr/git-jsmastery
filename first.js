@@ -1,6 +1,5 @@
 console.log('first change from main branch')
 console.log('second change from main branch')
 console.log('first change from main feature branch')
-console.log('Hello from GitHub')
-console.log('Hello from dev-jsm')
-console.log('Trying out revert')
+xxxxxxxxxxxx
+
